@@ -60,7 +60,7 @@
     }
 
     header .logo img{
-        height: 130px;
+        height: 60px;
         width: auto;  
         transition: 0.8s ease;
     }   
@@ -249,7 +249,7 @@
     }
 
     header .logo img:hover{
-        height: 140px;
+        height: 65px;
         width: auto;
         cursor: pointer;
     }
